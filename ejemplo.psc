@@ -1,3 +1,3 @@
 Proceso ejemplo
-	Escribir "Hola mundo!!!!"
+	Escribir "Hola mundo!!!! fgfgsds"
 FinProceso
